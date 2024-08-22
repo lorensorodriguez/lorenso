@@ -1,0 +1,1 @@
+Git is a fully-featured distributive version system for managing changes in the source during the procedure of software development. Easy to learn, understand, and use, Git has become an essential part of the overall DevOps culture.
