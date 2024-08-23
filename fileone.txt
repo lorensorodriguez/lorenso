@@ -1,0 +1,1 @@
+A specific example of version control. Git is a popular version control system. You can use Git to manage the versions of your computer programs and work on programs in conjunction with other developers. Git is itself a computer program.
