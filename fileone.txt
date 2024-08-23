@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Basically Version control system keeps track on changes made on a particular software and take a snapshot of every modification. Let’s suppose if a team of developer add some new functionalities in an application and the updated version is not working properly so as the version control system keeps track of our work so with the help of version control system we can omit the new changes and continue with the previous version.
+=======
+A specific example of version control. Git is a popular version control system. You can use Git to manage the versions of your computer programs and work on programs in conjunction with other developers. Git is itself a computer program.
+>>>>>>> 56dbb84bcff1addd27042a68005f27150c7ae8ef
